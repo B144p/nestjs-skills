@@ -27,3 +27,17 @@ broadcasting, WsException handling, ValidationPipe on events, Redis adapter scal
 ```bash
 npx skills add https://github.com/B144p/nestjs-skills --skill nestjs-websocket-gateway
 ```
+
+## Install Full Stack
+
+```bash
+# 3rd party
+npx skills add https://github.com/kadajett/agent-nestjs-skills --skill nestjs-best-practices
+npx skills add https://github.com/jeffallan/claude-skills --skill nestjs-expert
+npx skills add https://github.com/sickn33/antigravity-awesome-skills --skill prisma-expert
+npx skills add https://github.com/prisma/skills --skill prisma-postgres
+npx skills add https://github.com/wshobson/agents --skill typescript-advanced-types
+
+# Custom
+npx skills add https://github.com/B144p/nestjs-skills --skill nestjs-websocket-gateway
+```
